@@ -10,7 +10,7 @@ void phoneNumber::welcome()
 {
 	cout << "Welcome! This program is to convert a regular 10 digit" << 
 		" telephone number to E164 Format. Have fun!" << endl << endl;
-}
+}    
 //FORMAT BEING USED
 // 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 // + 1 ( 5 0 8 ) 5 9 6 -  6  4  1  1
